@@ -1,7 +1,7 @@
 """
 Numerology Calculator Package:
 
-Destiny number from your name or initial.
+Destiny number from your name or initials.
 Soul Urge number from your vowels.
 Personality number from your consonants.
 Life path number from your birthdate.
